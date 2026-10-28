@@ -231,7 +231,7 @@ function App() {
                 </p>
 
                 <p className="text-right text-2xl italic text-rose-300 sm:text-3xl">
-                  Con todo mi amor ♥
+                  Para ti con todo mi amor Estela P.V.♥ 
                 </p>
               </div>
 
